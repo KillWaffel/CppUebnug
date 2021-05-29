@@ -40,7 +40,7 @@ void quader() {
 void celsToFahrenheit() {
     cout << "Fahrenheit: " << (inp("Celcius")) * 9/5 + 32;
 }
-
+// test
 int main()
 {
     bool menu = true;
